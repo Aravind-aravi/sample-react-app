@@ -1,0 +1,136 @@
+
+.App {
+  text-align: center;
+  /* background-color: #61dafb; */
+}
+/* .Todolist {
+  background-color:tomato;
+}
+
+.TodoAdd{
+  background-color:teal;
+}
+.TodoView {
+  background-color:thistle;
+/* } */
+/* .card{
+  margin-left: 10cm;
+  margin-right: 10cm;
+}  */
+.posttitle{
+  margin-left: 1cm;
+  margin-top: 0.5cm;
+}
+.remove{
+  text-align: right;
+  margin-right: 0.5cm;
+  margin-bottom: 0.5cm;
+}
+.post{
+  text-align:left;
+  margin-left: 1cm;
+  margin-bottom: 1cm;
+  
+}
+.albumtext{
+  margin-top: 1cm;
+  margin-left: 1cm;
+}
+.posti{
+  text-align:left;
+  margin-left: 1cm;
+margin-bottom: 0.2cm;
+}
+.green{
+  color: green;
+}
+.red{
+  color: red;
+}
+.card{
+  margin-top: 2cm;
+  margin-left: 2cm;
+  margin-right: 2cm;
+}
+.cardpost{
+  text-align:left;
+  margin-left: 0.5cm;
+  margin-right: 30cm;
+  margin-bottom: 1cm;
+  margin-top: 1cm;
+}
+.postviewcard{
+  margin-top: 1cm;
+  margin-left: 0.2cm;
+  margin-right: 0.4cm;
+
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.fav{
+  margin-left: 13cm;
+  margin-bottom: 0.5cm;
+}
+.text{
+  margin-top:0.5cm;
+}
+
+.align{
+  margin-top: 0.3cm;
+  margin-left: 0.5cm;
+}
+.reset{
+  margin-left: 10cm;
+  margin-right: 4cm;
+}
+.cardwid{
+  width: 40cm;
+}
+
+.title{
+
+  margin-left: 10cm;
+}
+.img{
+  width: 2cm;
+  height: 2cm;
+}
+.usercard{
+  width: 4cm;
+  height: fit-content;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.upspace{
+  margin-top: 0.5cm;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
