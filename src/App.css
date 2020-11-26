@@ -134,3 +134,9 @@ margin-bottom: 0.2cm;
     transform: rotate(360deg);
   }
 }
+.form-control{
+  margin-bottom: 20px;
+}
+.error{
+  color: red;
+}
